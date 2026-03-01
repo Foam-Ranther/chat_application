@@ -42,3 +42,9 @@
     - db_fns
     - handler
   - main.js
+
+3. Additional : 
+  - create seperate deno.json file for both of the repository
+  - add basic commands. 
+
+- Note : different server ports for frontnend and backend. 
